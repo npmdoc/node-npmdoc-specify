@@ -1,6 +1,6 @@
 # npmdoc-specify
 
-#### api documentation for  [specify (v1.3.0)](https://github.com/dscape/specify)  [![npm package](https://img.shields.io/npm/v/npmdoc-specify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-specify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-specify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-specify)
+#### basic api documentation for  [specify (v1.3.0)](https://github.com/dscape/specify)  [![npm package](https://img.shields.io/npm/v/npmdoc-specify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-specify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-specify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-specify)
 
 #### bite sized node.js testing
 
